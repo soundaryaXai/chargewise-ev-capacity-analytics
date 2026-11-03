@@ -69,3 +69,64 @@ def get_overview_data():
         "sites": sites,
     }
 
+
+def get_capacity_data():
+    """
+    Generate illustrative capacity curves for UI development.
+    These are not actual ACN-Data results.
+    """
+
+    import numpy as np
+    import pandas as pd
+
+    port_counts = np.arange(8, 33)
+
+    site_parameters = {
+        "Caltech": {
+            "offered_load": 18.0,
+            "replay_adjustment": 0.0,
+        },
+        "JPL": {
+            "offered_load": 13.0,
+            "replay_adjustment": 0.8,
+        },
+        "Office Site C": {
+            "offered_load": 9.0,
+            "replay_adjustment": 1.5,
+        },
+    }
+
+    records = []
+
+    for site, parameters in site_parameters.items():
+
+        offered_load = parameters["offered_load"]
+        replay_adjustment = parameters["replay_adjustment"]
+
+        blocking_probability = 1.0
+
+        for ports in port_counts:
+
+            blocking_probability = (
+                offered_load * blocking_probability
+            ) / (
+                ports + offered_load * blocking_probability
+            )
+
+            erlang_b = blocking_probability
+
+            # Illustrative placeholder, not a real replay.
+            replay = min(
+                1.0,
+                erlang_b * 1.25
+                + replay_adjustment / 100,
+            )
+
+            records.append({
+                "site": site,
+                "ports": int(ports),
+                "erlang_b_blocking": erlang_b * 100,
+                "replay_blocking": replay * 100,
+            })
+
+    return pd.DataFrame(records), list(site_parameters.keys())
