@@ -119,3 +119,20 @@ h1, h2, h3 {
     font-weight: 600;
 }
 
+/* Methodology page */
+
+[data-testid="stVerticalBlockBorderWrapper"] {
+    border-color: var(--border);
+    border-radius: 8px;
+}
+
+[data-testid="stExpander"] {
+    border-color: var(--border);
+    border-radius: 8px;
+}
+
+[data-testid="stDataFrame"] {
+    border: 1px solid var(--border);
+    border-radius: 8px;
+}
+
