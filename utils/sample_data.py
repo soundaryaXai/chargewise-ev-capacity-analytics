@@ -130,3 +130,65 @@ def get_capacity_data():
             })
 
     return pd.DataFrame(records), list(site_parameters.keys())
+
+def get_scenario_data():
+    """
+    Generate illustrative policy-scenario values for UI development.
+
+    These values are placeholders, not ACN-Data replay results.
+    Dwell-cap adjustments are hypothetical UI assumptions only.
+    """
+
+    import numpy as np
+    import pandas as pd
+
+    site_parameters = {
+        "Caltech": {
+            "offered_load": 18.0,
+            "reference_ports": 24,
+        },
+        "JPL": {
+            "offered_load": 13.0,
+            "reference_ports": 18,
+        },
+        "Office Site C": {
+            "offered_load": 9.0,
+            "reference_ports": 14,
+        },
+    }
+
+    dwell_adjustments = {
+        "No cap": 1.00,
+        "30 minutes": 0.88,
+        "60 minutes": 0.93,
+        "120 minutes": 0.97,
+    }
+
+    records = []
+
+    for site, parameters in site_parameters.items():
+        offered_load = parameters["offered_load"]
+        reference_ports = parameters["reference_ports"]
+
+        for ports in np.arange(8, 33):
+            for dwell_cap, load_factor in dwell_adjustments.items():
+
+                adjusted_load = offered_load * load_factor
+                blocking = 1.0
+
+                for capacity in range(1, ports + 1):
+                    blocking = (
+                        adjusted_load * blocking
+                    ) / (
+                        capacity + adjusted_load * blocking
+                    )
+
+                records.append({
+                    "site": site,
+                    "ports": int(ports),
+                    "reference_ports": reference_ports,
+                    "dwell_cap": dwell_cap,
+                    "blocking_probability": blocking * 100,
+                })
+
+    return pd.DataFrame(records), list(site_parameters.keys())
