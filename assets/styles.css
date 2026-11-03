@@ -53,3 +53,69 @@
 h1, h2, h3 {
     color: var(--navy);
 }
+
+
+/* Sidebar branding */
+
+.brand {
+    padding: 12px 0 18px 0;
+}
+
+.brand-name {
+    font-size: 21px;
+    font-weight: 700;
+    letter-spacing: 2px;
+    color: #FFFFFF;
+}
+
+.brand-subtitle {
+    margin-top: 5px;
+    font-size: 10px;
+    letter-spacing: 1.4px;
+    color: #B8C7D1;
+}
+
+.sidebar-description {
+    font-size: 12px;
+    line-height: 1.7;
+    color: #D0D9DF;
+    padding: 4px 0;
+}
+
+.sidebar-context {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    font-size: 12px;
+    color: #B8C7D1;
+    padding: 5px 0;
+}
+
+.sidebar-context strong {
+    color: #FFFFFF;
+    font-weight: 500;
+    margin-bottom: 9px;
+}
+
+.sidebar-footer {
+    font-size: 11px;
+    line-height: 1.7;
+    color: #B8C7D1;
+}
+
+/* Navigation */
+
+[data-testid="stSidebarNav"] {
+    padding-top: 8px;
+}
+
+[data-testid="stSidebarNav"] a {
+    border-radius: 5px;
+    font-size: 13px;
+}
+
+[data-testid="stSidebarNav"] a[aria-current="page"] {
+    background-color: rgba(255, 255, 255, 0.12);
+    font-weight: 600;
+}
+
