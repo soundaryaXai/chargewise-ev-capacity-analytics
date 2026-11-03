@@ -1,0 +1,55 @@
+
+:root {
+    --navy: #172B3A;
+    --teal: #247D70;
+    --background: #F4F6F7;
+    --surface: #FFFFFF;
+    --text: #344054;
+    --muted: #98A2B3;
+    --border: #E4E7EC;
+}
+
+.stApp {
+    background-color: var(--background);
+    color: var(--text);
+}
+
+[data-testid="stSidebar"] {
+    background-color: var(--navy);
+}
+
+[data-testid="stSidebar"] * {
+    color: #FFFFFF;
+}
+
+.block-container {
+    padding-top: 2rem;
+    padding-bottom: 3rem;
+    max-width: 1440px;
+}
+
+[data-testid="stMetric"] {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 16px;
+}
+
+[data-testid="stMetricLabel"] {
+    color: var(--muted);
+}
+
+[data-testid="stMetricValue"] {
+    color: var(--navy);
+}
+
+[data-testid="stPlotlyChart"] {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 8px;
+}
+
+h1, h2, h3 {
+    color: var(--navy);
+}
