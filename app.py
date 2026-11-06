@@ -62,7 +62,8 @@ navigation = st.navigation(
         capacity,
         scenarios,
         methodology,
-    ]
+    ],
+    position="hidden",
 )
 
 navigation.run()
