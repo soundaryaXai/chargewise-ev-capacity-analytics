@@ -25,10 +25,7 @@ with open(css_path, encoding="utf-8") as css_file:
         unsafe_allow_html=True,
     )
 
-# Sidebar branding
-render_sidebar()
-
-# Define dashboard navigation
+# Define dashboard pages
 overview = st.Page(
     "pages/1_Overview.py",
     title="Overview",
@@ -55,6 +52,7 @@ methodology = st.Page(
     title="Data & Methodology",
 )
 
+# Register dashboard navigation
 navigation = st.navigation(
     [
         overview,
@@ -66,4 +64,16 @@ navigation = st.navigation(
     position="hidden",
 )
 
+# Render custom sidebar using registered page objects
+render_sidebar(
+    [
+        ("Overview", overview),
+        ("Utilization & Behaviour", utilization),
+        ("Capacity & Queueing", capacity),
+        ("Policy & Scenarios", scenarios),
+        ("Data & Methodology", methodology),
+    ]
+)
+
+# Run the selected page
 navigation.run()
