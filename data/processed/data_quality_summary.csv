@@ -1,0 +1,4 @@
+site,total_records,valid_connection_time,valid_disconnect_time,valid_station_id,valid_interval_order,usable_records,usable_percentage,duplicate_session_id_rows,duplicate_record_id_rows,unique_stations,overlapping_session_rows,done_charging_present,done_charging_within_connection,earliest_connection_utc,latest_connection_utc,median_connected_hours,p95_connected_hours,median_post_charge_dwell_minutes,user_id_present,user_inputs_present
+Caltech,31424,31424,31424,31424,31424,31424,100.0,0,0,55,0,29369,28163,2018-04-25 11:08:04+00:00,2021-09-14 01:52:37+00:00,4.73,11.87,79.48,16388,16388
+JPL,33638,33638,33638,33638,33638,33638,100.0,0,0,52,1,31601,28390,2018-09-05 11:04:13+00:00,2021-09-14 05:43:39+00:00,7.58,11.01,158.89,31459,31459
+Office 1,1683,1683,1683,1683,1683,1683,100.0,0,0,8,0,1629,1621,2019-03-25 16:24:42+00:00,2021-09-13 21:21:51+00:00,6.35,10.34,39.62,585,585

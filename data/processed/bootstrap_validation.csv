@@ -1,0 +1,25 @@
+site,regime,scenario,eligible_weeks,target_arrivals,full_sample_blocked_at_reference,full_sample_blocking_rate,full_sample_minimum_zero_capacity,full_sample_capacity_at_1pct,full_sample_capacity_at_5pct,policy_evaluation_capacity,full_sample_blocked_at_policy_evaluation_capacity,full_sample_blocking_at_policy_evaluation_capacity,sensitivity_capacity,full_sample_blocked_at_sensitivity_capacity,full_sample_blocking_at_sensitivity_capacity
+Caltech,Pre-disruption,Baseline,95,27172,0,0.0,51,43,35,35,1245,0.04581922567348742,,,
+Caltech,Pre-disruption,30-minute cap,95,27172,0,0.0,48,37,27,35,360,0.01324893272486383,,,
+Caltech,Pre-disruption,60-minute cap,95,27172,0,0.0,49,38,29,35,496,0.018254085087590168,,,
+Caltech,Pre-disruption,120-minute cap,95,27172,0,0.0,50,40,31,35,744,0.027381127631385248,,,
+Caltech,Recovery,Baseline,45,2152,0,0.0,18,13,9,9,81,0.03763940520446097,,,
+Caltech,Recovery,30-minute cap,45,2152,0,0.0,13,9,6,9,16,0.007434944237918215,,,
+Caltech,Recovery,60-minute cap,45,2152,0,0.0,14,10,7,9,24,0.011152416356877323,,,
+Caltech,Recovery,120-minute cap,45,2152,0,0.0,16,11,7,9,44,0.020446096654275093,,,
+JPL,Pre-disruption,Baseline,76,24596,0,0.0,52,51,48,48,1192,0.04846316474223451,50.0,495.0,0.020125223613595707
+JPL,Pre-disruption,30-minute cap,76,24596,0,0.0,52,50,47,48,694,0.02821597007643519,50.0,198.0,0.008050089445438283
+JPL,Pre-disruption,60-minute cap,76,24596,0,0.0,52,51,47,48,864,0.03512766303463978,50.0,297.0,0.012075134168157423
+JPL,Pre-disruption,120-minute cap,76,24596,0,0.0,52,51,48,48,958,0.0389494226703529,50.0,356.0,0.014473898194828427
+JPL,Recovery,Baseline,45,6347,0,0.0,43,36,29,29,277,0.04364266582637467,50.0,0.0,0.0
+JPL,Recovery,30-minute cap,45,6347,0,0.0,36,29,22,29,57,0.008980620765716086,50.0,0.0,0.0
+JPL,Recovery,60-minute cap,45,6347,0,0.0,38,31,23,29,91,0.014337482275090595,50.0,0.0,0.0
+JPL,Recovery,120-minute cap,45,6347,0,0.0,40,33,25,29,137,0.021585000787773753,50.0,0.0,0.0
+Office 1,Pre-disruption,Baseline,47,1108,0,0.0,8,7,6,6,35,0.0315884476534296,,,
+Office 1,Pre-disruption,30-minute cap,47,1108,0,0.0,7,6,5,6,4,0.0036101083032490976,,,
+Office 1,Pre-disruption,60-minute cap,47,1108,0,0.0,8,6,5,6,6,0.005415162454873646,,,
+Office 1,Pre-disruption,120-minute cap,47,1108,0,0.0,8,7,5,6,12,0.010830324909747292,,,
+Office 1,Recovery,Baseline,45,362,0,0.0,5,4,3,3,10,0.027624309392265192,,,
+Office 1,Recovery,30-minute cap,45,362,0,0.0,4,4,3,3,4,0.011049723756906077,,,
+Office 1,Recovery,60-minute cap,45,362,0,0.0,4,4,3,3,4,0.011049723756906077,,,
+Office 1,Recovery,120-minute cap,45,362,0,0.0,4,4,3,3,6,0.016574585635359115,,,

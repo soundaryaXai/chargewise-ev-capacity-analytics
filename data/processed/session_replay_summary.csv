@@ -1,0 +1,7 @@
+site,regime,target_sessions,minimum_zero_blocking_capacity,maximum_tested_capacity,blocked_at_maximum,blocking_at_maximum,other_sessions_accepted_at_maximum,other_sessions_blocked_at_maximum
+Caltech,Pre-disruption,27172,51,54,0,0.0,217,0
+Caltech,Recovery,2152,18,54,0,0.0,28117,0
+JPL,Pre-disruption,24596,52,52,0,0.0,127,0
+JPL,Recovery,6347,43,52,0,0.0,27238,0
+Office 1,Pre-disruption,1108,8,8,0,0.0,10,0
+Office 1,Recovery,362,5,8,0,0.0,1319,0

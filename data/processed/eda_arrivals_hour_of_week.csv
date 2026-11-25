@@ -1,0 +1,505 @@
+site,weekday_number,weekday_name,local_hour,hour_of_week,arrival_sessions
+Caltech,0,Monday,0,0,15
+Caltech,0,Monday,1,1,8
+Caltech,0,Monday,2,2,5
+Caltech,0,Monday,3,3,4
+Caltech,0,Monday,4,4,28
+Caltech,0,Monday,5,5,25
+Caltech,0,Monday,6,6,149
+Caltech,0,Monday,7,7,323
+Caltech,0,Monday,8,8,1024
+Caltech,0,Monday,9,9,780
+Caltech,0,Monday,10,10,476
+Caltech,0,Monday,11,11,194
+Caltech,0,Monday,12,12,278
+Caltech,0,Monday,13,13,267
+Caltech,0,Monday,14,14,180
+Caltech,0,Monday,15,15,172
+Caltech,0,Monday,16,16,195
+Caltech,0,Monday,17,17,206
+Caltech,0,Monday,18,18,257
+Caltech,0,Monday,19,19,178
+Caltech,0,Monday,20,20,109
+Caltech,0,Monday,21,21,92
+Caltech,0,Monday,22,22,39
+Caltech,0,Monday,23,23,20
+Caltech,1,Tuesday,0,24,13
+Caltech,1,Tuesday,1,25,7
+Caltech,1,Tuesday,2,26,3
+Caltech,1,Tuesday,3,27,4
+Caltech,1,Tuesday,4,28,31
+Caltech,1,Tuesday,5,29,29
+Caltech,1,Tuesday,6,30,137
+Caltech,1,Tuesday,7,31,347
+Caltech,1,Tuesday,8,32,1068
+Caltech,1,Tuesday,9,33,976
+Caltech,1,Tuesday,10,34,537
+Caltech,1,Tuesday,11,35,255
+Caltech,1,Tuesday,12,36,292
+Caltech,1,Tuesday,13,37,302
+Caltech,1,Tuesday,14,38,180
+Caltech,1,Tuesday,15,39,157
+Caltech,1,Tuesday,16,40,189
+Caltech,1,Tuesday,17,41,217
+Caltech,1,Tuesday,18,42,252
+Caltech,1,Tuesday,19,43,230
+Caltech,1,Tuesday,20,44,185
+Caltech,1,Tuesday,21,45,75
+Caltech,1,Tuesday,22,46,53
+Caltech,1,Tuesday,23,47,23
+Caltech,2,Wednesday,0,48,15
+Caltech,2,Wednesday,1,49,9
+Caltech,2,Wednesday,2,50,3
+Caltech,2,Wednesday,3,51,1
+Caltech,2,Wednesday,4,52,26
+Caltech,2,Wednesday,5,53,28
+Caltech,2,Wednesday,6,54,138
+Caltech,2,Wednesday,7,55,290
+Caltech,2,Wednesday,8,56,1154
+Caltech,2,Wednesday,9,57,940
+Caltech,2,Wednesday,10,58,479
+Caltech,2,Wednesday,11,59,237
+Caltech,2,Wednesday,12,60,326
+Caltech,2,Wednesday,13,61,304
+Caltech,2,Wednesday,14,62,166
+Caltech,2,Wednesday,15,63,135
+Caltech,2,Wednesday,16,64,192
+Caltech,2,Wednesday,17,65,191
+Caltech,2,Wednesday,18,66,333
+Caltech,2,Wednesday,19,67,222
+Caltech,2,Wednesday,20,68,138
+Caltech,2,Wednesday,21,69,102
+Caltech,2,Wednesday,22,70,49
+Caltech,2,Wednesday,23,71,23
+Caltech,3,Thursday,0,72,16
+Caltech,3,Thursday,1,73,9
+Caltech,3,Thursday,2,74,3
+Caltech,3,Thursday,3,75,3
+Caltech,3,Thursday,4,76,26
+Caltech,3,Thursday,5,77,18
+Caltech,3,Thursday,6,78,129
+Caltech,3,Thursday,7,79,331
+Caltech,3,Thursday,8,80,1126
+Caltech,3,Thursday,9,81,859
+Caltech,3,Thursday,10,82,475
+Caltech,3,Thursday,11,83,236
+Caltech,3,Thursday,12,84,277
+Caltech,3,Thursday,13,85,297
+Caltech,3,Thursday,14,86,190
+Caltech,3,Thursday,15,87,141
+Caltech,3,Thursday,16,88,162
+Caltech,3,Thursday,17,89,224
+Caltech,3,Thursday,18,90,266
+Caltech,3,Thursday,19,91,178
+Caltech,3,Thursday,20,92,188
+Caltech,3,Thursday,21,93,90
+Caltech,3,Thursday,22,94,60
+Caltech,3,Thursday,23,95,26
+Caltech,4,Friday,0,96,13
+Caltech,4,Friday,1,97,11
+Caltech,4,Friday,2,98,7
+Caltech,4,Friday,3,99,3
+Caltech,4,Friday,4,100,26
+Caltech,4,Friday,5,101,24
+Caltech,4,Friday,6,102,150
+Caltech,4,Friday,7,103,340
+Caltech,4,Friday,8,104,1028
+Caltech,4,Friday,9,105,872
+Caltech,4,Friday,10,106,508
+Caltech,4,Friday,11,107,265
+Caltech,4,Friday,12,108,279
+Caltech,4,Friday,13,109,301
+Caltech,4,Friday,14,110,212
+Caltech,4,Friday,15,111,162
+Caltech,4,Friday,16,112,163
+Caltech,4,Friday,17,113,205
+Caltech,4,Friday,18,114,186
+Caltech,4,Friday,19,115,152
+Caltech,4,Friday,20,116,108
+Caltech,4,Friday,21,117,90
+Caltech,4,Friday,22,118,59
+Caltech,4,Friday,23,119,35
+Caltech,5,Saturday,0,120,30
+Caltech,5,Saturday,1,121,13
+Caltech,5,Saturday,2,122,8
+Caltech,5,Saturday,3,123,4
+Caltech,5,Saturday,4,124,10
+Caltech,5,Saturday,5,125,5
+Caltech,5,Saturday,6,126,29
+Caltech,5,Saturday,7,127,125
+Caltech,5,Saturday,8,128,148
+Caltech,5,Saturday,9,129,214
+Caltech,5,Saturday,10,130,241
+Caltech,5,Saturday,11,131,176
+Caltech,5,Saturday,12,132,196
+Caltech,5,Saturday,13,133,164
+Caltech,5,Saturday,14,134,178
+Caltech,5,Saturday,15,135,183
+Caltech,5,Saturday,16,136,186
+Caltech,5,Saturday,17,137,130
+Caltech,5,Saturday,18,138,108
+Caltech,5,Saturday,19,139,103
+Caltech,5,Saturday,20,140,78
+Caltech,5,Saturday,21,141,66
+Caltech,5,Saturday,22,142,57
+Caltech,5,Saturday,23,143,41
+Caltech,6,Sunday,0,144,22
+Caltech,6,Sunday,1,145,17
+Caltech,6,Sunday,2,146,8
+Caltech,6,Sunday,3,147,6
+Caltech,6,Sunday,4,148,3
+Caltech,6,Sunday,5,149,8
+Caltech,6,Sunday,6,150,23
+Caltech,6,Sunday,7,151,56
+Caltech,6,Sunday,8,152,103
+Caltech,6,Sunday,9,153,148
+Caltech,6,Sunday,10,154,188
+Caltech,6,Sunday,11,155,196
+Caltech,6,Sunday,12,156,204
+Caltech,6,Sunday,13,157,191
+Caltech,6,Sunday,14,158,163
+Caltech,6,Sunday,15,159,149
+Caltech,6,Sunday,16,160,180
+Caltech,6,Sunday,17,161,170
+Caltech,6,Sunday,18,162,143
+Caltech,6,Sunday,19,163,113
+Caltech,6,Sunday,20,164,95
+Caltech,6,Sunday,21,165,67
+Caltech,6,Sunday,22,166,40
+Caltech,6,Sunday,23,167,22
+JPL,0,Monday,0,0,1
+JPL,0,Monday,1,1,1
+JPL,0,Monday,2,2,6
+JPL,0,Monday,3,3,19
+JPL,0,Monday,4,4,66
+JPL,0,Monday,5,5,480
+JPL,0,Monday,6,6,1564
+JPL,0,Monday,7,7,1991
+JPL,0,Monday,8,8,418
+JPL,0,Monday,9,9,218
+JPL,0,Monday,10,10,131
+JPL,0,Monday,11,11,229
+JPL,0,Monday,12,12,338
+JPL,0,Monday,13,13,229
+JPL,0,Monday,14,14,260
+JPL,0,Monday,15,15,330
+JPL,0,Monday,16,16,257
+JPL,0,Monday,17,17,92
+JPL,0,Monday,18,18,34
+JPL,0,Monday,19,19,23
+JPL,0,Monday,20,20,16
+JPL,0,Monday,21,21,17
+JPL,0,Monday,22,22,26
+JPL,0,Monday,23,23,5
+JPL,1,Tuesday,0,24,9
+JPL,1,Tuesday,1,25,3
+JPL,1,Tuesday,2,26,7
+JPL,1,Tuesday,3,27,24
+JPL,1,Tuesday,4,28,64
+JPL,1,Tuesday,5,29,533
+JPL,1,Tuesday,6,30,1609
+JPL,1,Tuesday,7,31,1974
+JPL,1,Tuesday,8,32,469
+JPL,1,Tuesday,9,33,280
+JPL,1,Tuesday,10,34,184
+JPL,1,Tuesday,11,35,295
+JPL,1,Tuesday,12,36,327
+JPL,1,Tuesday,13,37,235
+JPL,1,Tuesday,14,38,246
+JPL,1,Tuesday,15,39,340
+JPL,1,Tuesday,16,40,252
+JPL,1,Tuesday,17,41,76
+JPL,1,Tuesday,18,42,31
+JPL,1,Tuesday,19,43,23
+JPL,1,Tuesday,20,44,24
+JPL,1,Tuesday,21,45,21
+JPL,1,Tuesday,22,46,9
+JPL,1,Tuesday,23,47,9
+JPL,2,Wednesday,0,48,3
+JPL,2,Wednesday,1,49,3
+JPL,2,Wednesday,2,50,11
+JPL,2,Wednesday,3,51,22
+JPL,2,Wednesday,4,52,56
+JPL,2,Wednesday,5,53,521
+JPL,2,Wednesday,6,54,1581
+JPL,2,Wednesday,7,55,1965
+JPL,2,Wednesday,8,56,472
+JPL,2,Wednesday,9,57,298
+JPL,2,Wednesday,10,58,139
+JPL,2,Wednesday,11,59,269
+JPL,2,Wednesday,12,60,352
+JPL,2,Wednesday,13,61,233
+JPL,2,Wednesday,14,62,237
+JPL,2,Wednesday,15,63,341
+JPL,2,Wednesday,16,64,235
+JPL,2,Wednesday,17,65,92
+JPL,2,Wednesday,18,66,42
+JPL,2,Wednesday,19,67,17
+JPL,2,Wednesday,20,68,17
+JPL,2,Wednesday,21,69,29
+JPL,2,Wednesday,22,70,18
+JPL,2,Wednesday,23,71,7
+JPL,3,Thursday,0,72,5
+JPL,3,Thursday,1,73,2
+JPL,3,Thursday,2,74,7
+JPL,3,Thursday,3,75,20
+JPL,3,Thursday,4,76,56
+JPL,3,Thursday,5,77,519
+JPL,3,Thursday,6,78,1492
+JPL,3,Thursday,7,79,1953
+JPL,3,Thursday,8,80,570
+JPL,3,Thursday,9,81,267
+JPL,3,Thursday,10,82,155
+JPL,3,Thursday,11,83,262
+JPL,3,Thursday,12,84,357
+JPL,3,Thursday,13,85,213
+JPL,3,Thursday,14,86,263
+JPL,3,Thursday,15,87,336
+JPL,3,Thursday,16,88,267
+JPL,3,Thursday,17,89,99
+JPL,3,Thursday,18,90,34
+JPL,3,Thursday,19,91,25
+JPL,3,Thursday,20,92,15
+JPL,3,Thursday,21,93,19
+JPL,3,Thursday,22,94,10
+JPL,3,Thursday,23,95,8
+JPL,4,Friday,0,96,2
+JPL,4,Friday,1,97,2
+JPL,4,Friday,2,98,4
+JPL,4,Friday,3,99,15
+JPL,4,Friday,4,100,39
+JPL,4,Friday,5,101,327
+JPL,4,Friday,6,102,878
+JPL,4,Friday,7,103,1265
+JPL,4,Friday,8,104,483
+JPL,4,Friday,9,105,313
+JPL,4,Friday,10,106,202
+JPL,4,Friday,11,107,283
+JPL,4,Friday,12,108,309
+JPL,4,Friday,13,109,267
+JPL,4,Friday,14,110,226
+JPL,4,Friday,15,111,196
+JPL,4,Friday,16,112,115
+JPL,4,Friday,17,113,48
+JPL,4,Friday,18,114,26
+JPL,4,Friday,19,115,12
+JPL,4,Friday,20,116,11
+JPL,4,Friday,21,117,10
+JPL,4,Friday,22,118,6
+JPL,4,Friday,23,119,5
+JPL,5,Saturday,0,120,2
+JPL,5,Saturday,1,121,1
+JPL,5,Saturday,2,122,0
+JPL,5,Saturday,3,123,0
+JPL,5,Saturday,4,124,4
+JPL,5,Saturday,5,125,38
+JPL,5,Saturday,6,126,40
+JPL,5,Saturday,7,127,55
+JPL,5,Saturday,8,128,49
+JPL,5,Saturday,9,129,51
+JPL,5,Saturday,10,130,44
+JPL,5,Saturday,11,131,39
+JPL,5,Saturday,12,132,47
+JPL,5,Saturday,13,133,40
+JPL,5,Saturday,14,134,32
+JPL,5,Saturday,15,135,14
+JPL,5,Saturday,16,136,18
+JPL,5,Saturday,17,137,12
+JPL,5,Saturday,18,138,5
+JPL,5,Saturday,19,139,4
+JPL,5,Saturday,20,140,4
+JPL,5,Saturday,21,141,3
+JPL,5,Saturday,22,142,0
+JPL,5,Saturday,23,143,0
+JPL,6,Sunday,0,144,3
+JPL,6,Sunday,1,145,0
+JPL,6,Sunday,2,146,0
+JPL,6,Sunday,3,147,1
+JPL,6,Sunday,4,148,1
+JPL,6,Sunday,5,149,4
+JPL,6,Sunday,6,150,18
+JPL,6,Sunday,7,151,56
+JPL,6,Sunday,8,152,18
+JPL,6,Sunday,9,153,30
+JPL,6,Sunday,10,154,54
+JPL,6,Sunday,11,155,34
+JPL,6,Sunday,12,156,33
+JPL,6,Sunday,13,157,37
+JPL,6,Sunday,14,158,29
+JPL,6,Sunday,15,159,20
+JPL,6,Sunday,16,160,15
+JPL,6,Sunday,17,161,7
+JPL,6,Sunday,18,162,10
+JPL,6,Sunday,19,163,3
+JPL,6,Sunday,20,164,5
+JPL,6,Sunday,21,165,3
+JPL,6,Sunday,22,166,2
+JPL,6,Sunday,23,167,0
+Office 1,0,Monday,0,0,0
+Office 1,0,Monday,1,1,0
+Office 1,0,Monday,2,2,0
+Office 1,0,Monday,3,3,0
+Office 1,0,Monday,4,4,0
+Office 1,0,Monday,5,5,0
+Office 1,0,Monday,6,6,3
+Office 1,0,Monday,7,7,23
+Office 1,0,Monday,8,8,66
+Office 1,0,Monday,9,9,59
+Office 1,0,Monday,10,10,38
+Office 1,0,Monday,11,11,65
+Office 1,0,Monday,12,12,25
+Office 1,0,Monday,13,13,38
+Office 1,0,Monday,14,14,15
+Office 1,0,Monday,15,15,5
+Office 1,0,Monday,16,16,6
+Office 1,0,Monday,17,17,3
+Office 1,0,Monday,18,18,2
+Office 1,0,Monday,19,19,0
+Office 1,0,Monday,20,20,0
+Office 1,0,Monday,21,21,0
+Office 1,0,Monday,22,22,0
+Office 1,0,Monday,23,23,0
+Office 1,1,Tuesday,0,24,0
+Office 1,1,Tuesday,1,25,0
+Office 1,1,Tuesday,2,26,0
+Office 1,1,Tuesday,3,27,0
+Office 1,1,Tuesday,4,28,0
+Office 1,1,Tuesday,5,29,0
+Office 1,1,Tuesday,6,30,3
+Office 1,1,Tuesday,7,31,33
+Office 1,1,Tuesday,8,32,47
+Office 1,1,Tuesday,9,33,43
+Office 1,1,Tuesday,10,34,33
+Office 1,1,Tuesday,11,35,33
+Office 1,1,Tuesday,12,36,25
+Office 1,1,Tuesday,13,37,35
+Office 1,1,Tuesday,14,38,22
+Office 1,1,Tuesday,15,39,6
+Office 1,1,Tuesday,16,40,6
+Office 1,1,Tuesday,17,41,1
+Office 1,1,Tuesday,18,42,1
+Office 1,1,Tuesday,19,43,0
+Office 1,1,Tuesday,20,44,0
+Office 1,1,Tuesday,21,45,0
+Office 1,1,Tuesday,22,46,0
+Office 1,1,Tuesday,23,47,0
+Office 1,2,Wednesday,0,48,0
+Office 1,2,Wednesday,1,49,0
+Office 1,2,Wednesday,2,50,0
+Office 1,2,Wednesday,3,51,0
+Office 1,2,Wednesday,4,52,0
+Office 1,2,Wednesday,5,53,0
+Office 1,2,Wednesday,6,54,7
+Office 1,2,Wednesday,7,55,33
+Office 1,2,Wednesday,8,56,65
+Office 1,2,Wednesday,9,57,42
+Office 1,2,Wednesday,10,58,32
+Office 1,2,Wednesday,11,59,51
+Office 1,2,Wednesday,12,60,24
+Office 1,2,Wednesday,13,61,26
+Office 1,2,Wednesday,14,62,25
+Office 1,2,Wednesday,15,63,9
+Office 1,2,Wednesday,16,64,6
+Office 1,2,Wednesday,17,65,4
+Office 1,2,Wednesday,18,66,0
+Office 1,2,Wednesday,19,67,2
+Office 1,2,Wednesday,20,68,0
+Office 1,2,Wednesday,21,69,0
+Office 1,2,Wednesday,22,70,0
+Office 1,2,Wednesday,23,71,0
+Office 1,3,Thursday,0,72,0
+Office 1,3,Thursday,1,73,0
+Office 1,3,Thursday,2,74,0
+Office 1,3,Thursday,3,75,0
+Office 1,3,Thursday,4,76,0
+Office 1,3,Thursday,5,77,0
+Office 1,3,Thursday,6,78,7
+Office 1,3,Thursday,7,79,39
+Office 1,3,Thursday,8,80,38
+Office 1,3,Thursday,9,81,53
+Office 1,3,Thursday,10,82,33
+Office 1,3,Thursday,11,83,64
+Office 1,3,Thursday,12,84,17
+Office 1,3,Thursday,13,85,39
+Office 1,3,Thursday,14,86,26
+Office 1,3,Thursday,15,87,5
+Office 1,3,Thursday,16,88,6
+Office 1,3,Thursday,17,89,2
+Office 1,3,Thursday,18,90,1
+Office 1,3,Thursday,19,91,0
+Office 1,3,Thursday,20,92,0
+Office 1,3,Thursday,21,93,0
+Office 1,3,Thursday,22,94,1
+Office 1,3,Thursday,23,95,0
+Office 1,4,Friday,0,96,0
+Office 1,4,Friday,1,97,0
+Office 1,4,Friday,2,98,0
+Office 1,4,Friday,3,99,0
+Office 1,4,Friday,4,100,0
+Office 1,4,Friday,5,101,0
+Office 1,4,Friday,6,102,12
+Office 1,4,Friday,7,103,37
+Office 1,4,Friday,8,104,65
+Office 1,4,Friday,9,105,73
+Office 1,4,Friday,10,106,20
+Office 1,4,Friday,11,107,48
+Office 1,4,Friday,12,108,19
+Office 1,4,Friday,13,109,53
+Office 1,4,Friday,14,110,24
+Office 1,4,Friday,15,111,18
+Office 1,4,Friday,16,112,6
+Office 1,4,Friday,17,113,5
+Office 1,4,Friday,18,114,2
+Office 1,4,Friday,19,115,0
+Office 1,4,Friday,20,116,0
+Office 1,4,Friday,21,117,1
+Office 1,4,Friday,22,118,0
+Office 1,4,Friday,23,119,0
+Office 1,5,Saturday,0,120,0
+Office 1,5,Saturday,1,121,0
+Office 1,5,Saturday,2,122,0
+Office 1,5,Saturday,3,123,0
+Office 1,5,Saturday,4,124,0
+Office 1,5,Saturday,5,125,0
+Office 1,5,Saturday,6,126,0
+Office 1,5,Saturday,7,127,0
+Office 1,5,Saturday,8,128,0
+Office 1,5,Saturday,9,129,0
+Office 1,5,Saturday,10,130,2
+Office 1,5,Saturday,11,131,0
+Office 1,5,Saturday,12,132,0
+Office 1,5,Saturday,13,133,0
+Office 1,5,Saturday,14,134,0
+Office 1,5,Saturday,15,135,0
+Office 1,5,Saturday,16,136,0
+Office 1,5,Saturday,17,137,1
+Office 1,5,Saturday,18,138,0
+Office 1,5,Saturday,19,139,0
+Office 1,5,Saturday,20,140,0
+Office 1,5,Saturday,21,141,0
+Office 1,5,Saturday,22,142,0
+Office 1,5,Saturday,23,143,0
+Office 1,6,Sunday,0,144,0
+Office 1,6,Sunday,1,145,0
+Office 1,6,Sunday,2,146,0
+Office 1,6,Sunday,3,147,0
+Office 1,6,Sunday,4,148,0
+Office 1,6,Sunday,5,149,0
+Office 1,6,Sunday,6,150,0
+Office 1,6,Sunday,7,151,0
+Office 1,6,Sunday,8,152,0
+Office 1,6,Sunday,9,153,2
+Office 1,6,Sunday,10,154,1
+Office 1,6,Sunday,11,155,0
+Office 1,6,Sunday,12,156,0
+Office 1,6,Sunday,13,157,0
+Office 1,6,Sunday,14,158,0
+Office 1,6,Sunday,15,159,0
+Office 1,6,Sunday,16,160,1
+Office 1,6,Sunday,17,161,0
+Office 1,6,Sunday,18,162,0
+Office 1,6,Sunday,19,163,0
+Office 1,6,Sunday,20,164,0
+Office 1,6,Sunday,21,165,0
+Office 1,6,Sunday,22,166,0
+Office 1,6,Sunday,23,167,0

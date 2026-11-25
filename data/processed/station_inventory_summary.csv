@@ -1,0 +1,4 @@
+site_id,total_sessions,unique_station_ids,unique_cluster_station_pairs,unique_clusters
+caltech,31424,55,109,2
+jpl,33638,52,52,1
+office001,1683,8,8,1
