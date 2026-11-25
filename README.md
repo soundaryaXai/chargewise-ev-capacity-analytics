@@ -17,6 +17,23 @@ The project combines empirical occupancy reconstruction, capacity-pressure scree
 
 The objective is to evaluate capacity requirements under observed session patterns while distinguishing empirical utilization from model-estimated blocking and hypothetical policy effects.
 
+## Dashboard Preview
+
+### Overview
+![ChargeWise Overview](assets/screenshots/overview.png)
+
+### Utilization & Behaviour
+![Utilization and Behaviour](assets/screenshots/utilization.png)
+
+### Capacity & Queueing
+![Capacity and Queueing](assets/screenshots/capacity.png)
+
+### Policy & Scenarios
+![Policy and Scenarios](assets/screenshots/policy.png)
+
+### Data & Methodology
+![Data and Methodology](assets/screenshots/methodology.png)
+
 ## Research question
 
 **How does reducing available charging-port capacity affect service availability under observed workplace charging patterns, and how sensitive are the results to post-charge dwell assumptions and arrival patterns?**
